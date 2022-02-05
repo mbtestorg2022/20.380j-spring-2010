@@ -42,50 +42,553 @@ Following the two-dimensional matrix organization structure commonly found in co
 
 Coursework grades are mostly based on team project work. There is one exam at mid-term, based on the six papers used for the initial technical paper presentations.
 
-| COURSEWORK | PERCENTAGES |
-| --- | --- |
-| Technical paper presentation | 10% |
-| Mid-term exam | 15% |
-| Recitation: design pitch + group interim progress reports | 25% |
-| Peer review of draft final report | 10% |
-| Final report | 20% |
-| Final presentation | 10% |
-| Class participation | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+COURSEWORK
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Technical paper presentation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mid-term exam
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation: design pitch + group interim progress reports
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Peer review of draft final report
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final report
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final presentation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| SES # | TOPICS | INSTRUCTORS | KEY DATES |
-| --- | --- | --- | --- |
-| 1. | Introduction to the course | All |    {{< br >}}  |
-| Background: Inflammation in healthy immune response | Irvine |
-| 2. | Background: Inflammation and cancer | Irvine | &nbsp; |
-| 3. | Background: Inflammation in obesity and diabetes | White | &nbsp; |
-| 4. | Background: Inflammation in cardiovascular disease | Essigmann | &nbsp; |
-| 5. | Communications review 1 | CI-M staff | &nbsp; |
-| 6. | Background: Molecular warfare in inflammation | Essigmann |    {{< br >}}   {{< br >}}  |
-| Background: Network response to inflammatory stress | White |
-| Workshop: S-nitrosylation effects on cell networks; DNA-Damage signaling; and 'the billion dollar question': early detection of disease | White |
-| 7. | Technical paper team presentations | &nbsp; |
-| 8. | Technical paper team presentations (cont.) | &nbsp; |
-| 9. | Example final presentation | Prior 20.380 student | &nbsp; |
-| 10. | Midterm exam | &nbsp; | Technical report peer reviews due |
-| 11. | Design pitches | &nbsp; |
-| 12. | Design pitches (cont.) | &nbsp; |
-| 13. | Design pitches (cont.) | &nbsp; |
-| 14. | Workshop: Patents | Guest: Robert Langer | &nbsp; |
-| 15. | Workshop: Regulatory agencies and clinical trials | Essigmann | &nbsp; |
-| Project work | &nbsp; |
-| 16. | Project work (cont.) | &nbsp; |
-| 17. | Communications review 2 | Banuazizi | &nbsp; |
-| Workshop: Signaling networks | White |
-| 18. | Workshop: Drug targeting | Irvine | &nbsp; |
-| Workshop: Drug carriers | Irvine |
-| 19. | Workshop: Immuno-regulatory strategies | Irvine | &nbsp; |
-| 20. | Peer reviews | &nbsp; | Paper drafts due |
-| 21. | Peer reviews (cont.) | &nbsp; |
-| 22. | Peer reviews (cont.) | &nbsp; |
-| 23. | Project work | &nbsp; |
-| 24. | Project work (cont.) | &nbsp; | Final paper due |
-| 25. | Project work (cont.) | &nbsp; |
-| 26. | Final presentations | &nbsp; |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+INSTRUCTORS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1.
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the course
+{{< tdclose >}}
+{{< tdopen >}}
+All
+{{< tdclose >}}
+{{< tdopen >}}
+   
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Background: Inflammation in healthy immune response
+{{< tdclose >}}
+{{< tdopen >}}
+Irvine
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2.
+{{< tdclose >}}
+{{< tdopen >}}
+Background: Inflammation and cancer
+{{< tdclose >}}
+{{< tdopen >}}
+Irvine
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3.
+{{< tdclose >}}
+{{< tdopen >}}
+Background: Inflammation in obesity and diabetes
+{{< tdclose >}}
+{{< tdopen >}}
+White
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4.
+{{< tdclose >}}
+{{< tdopen >}}
+Background: Inflammation in cardiovascular disease
+{{< tdclose >}}
+{{< tdopen >}}
+Essigmann
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5.
+{{< tdclose >}}
+{{< tdopen >}}
+Communications review 1
+{{< tdclose >}}
+{{< tdopen >}}
+CI-M staff
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6.
+{{< tdclose >}}
+{{< tdopen >}}
+Background: Molecular warfare in inflammation
+{{< tdclose >}}
+{{< tdopen >}}
+Essigmann
+{{< tdclose >}}
+{{< tdopen >}}
+   
+   
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Background: Network response to inflammatory stress
+{{< tdclose >}}
+{{< tdopen >}}
+White
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Workshop: S-nitrosylation effects on cell networks; DNA-Damage signaling; and 'the billion dollar question': early detection of disease
+{{< tdclose >}}
+{{< tdopen >}}
+White
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7.
+{{< tdclose >}}
+{{< tdopen >}}
+Technical paper team presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8.
+{{< tdclose >}}
+{{< tdopen >}}
+Technical paper team presentations (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9.
+{{< tdclose >}}
+{{< tdopen >}}
+Example final presentation
+{{< tdclose >}}
+{{< tdopen >}}
+Prior 20.380 student
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10.
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Technical report peer reviews due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11.
+{{< tdclose >}}
+{{< tdopen >}}
+Design pitches
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12.
+{{< tdclose >}}
+{{< tdopen >}}
+Design pitches (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13.
+{{< tdclose >}}
+{{< tdopen >}}
+Design pitches (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14.
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Patents
+{{< tdclose >}}
+{{< tdopen >}}
+Guest: Robert Langer
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15.
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Regulatory agencies and clinical trials
+{{< tdclose >}}
+{{< tdopen >}}
+Essigmann
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project work
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16.
+{{< tdclose >}}
+{{< tdopen >}}
+Project work (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17.
+{{< tdclose >}}
+{{< tdopen >}}
+Communications review 2
+{{< tdclose >}}
+{{< tdopen >}}
+Banuazizi
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Workshop: Signaling networks
+{{< tdclose >}}
+{{< tdopen >}}
+White
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18.
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Drug targeting
+{{< tdclose >}}
+{{< tdopen >}}
+Irvine
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Workshop: Drug carriers
+{{< tdclose >}}
+{{< tdopen >}}
+Irvine
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19.
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Immuno-regulatory strategies
+{{< tdclose >}}
+{{< tdopen >}}
+Irvine
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20.
+{{< tdclose >}}
+{{< tdopen >}}
+Peer reviews
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Paper drafts due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21.
+{{< tdclose >}}
+{{< tdopen >}}
+Peer reviews (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22.
+{{< tdclose >}}
+{{< tdopen >}}
+Peer reviews (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23.
+{{< tdclose >}}
+{{< tdopen >}}
+Project work
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24.
+{{< tdclose >}}
+{{< tdopen >}}
+Project work (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25.
+{{< tdclose >}}
+{{< tdopen >}}
+Project work (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26.
+{{< tdclose >}}
+{{< tdopen >}}
+Final presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

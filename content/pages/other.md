@@ -39,7 +39,7 @@ Introduction to the course
 All
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.3MB]({{< baseurl >}}/resources/mit20_380js10_lec01_intro))
+([PDF - 2.3MB]({{< baseurl >}}/resources/mit20_380js10_lec01_intro))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -121,7 +121,7 @@ Background: Inflammation in cardiovascular disease
 Essigmann
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 8.3MB]({{< baseurl >}}/resources/mit20_380js10_lec04_je))
+([PDF - 8.3MB]({{< baseurl >}}/resources/mit20_380js10_lec04_je))
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -240,7 +240,7 @@ Workshop: Signaling networks
 White
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.0MB]({{< baseurl >}}/resources/mit20_380js10_wk17_fw))
+([PDF - 2.0MB]({{< baseurl >}}/resources/mit20_380js10_wk17_fw))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -274,7 +274,7 @@ Workshop: Drug targeting
 Irvine
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.0MB]({{< baseurl >}}/resources/mit20_380js10_wk18_di_trgt))
+([PDF - 2.0MB]({{< baseurl >}}/resources/mit20_380js10_wk18_di_trgt))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -289,7 +289,7 @@ Workshop: Drug carriers
 Irvine
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB]({{< baseurl >}}/resources/mit20_380js10_wk18_fw_care))
+([PDF - 1.9MB]({{< baseurl >}}/resources/mit20_380js10_wk18_fw_care))
 {{< tdclose >}}
 
 {{< trclose >}}

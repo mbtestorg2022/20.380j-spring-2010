@@ -4,6 +4,7 @@ description: This resource contains information related to immune system - the b
   inflammation in health and disease.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/20-380j-biological-engineering-design-spring-2010/34dbd22f1f337e5478b87fb2f7816b4f_MIT20_380JS10_lec01_di.pdf
 file_type: application/pdf
+parent_uid: 52e203d2-2d0d-9bb1-0143-e079117c1785
 resourcetype: Document
 title: MIT20_380JS10_lec01_di.pdf
 uid: 34dbd22f-1f33-7e54-78b8-7fb2f7816b4f

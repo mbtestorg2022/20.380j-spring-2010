@@ -14,10 +14,10 @@ Prerequisites
 
 Officially:
 
-*   [7.06 Cell Biology](/courses/7-06-cell-biology-spring-2007/)
+*   [7.06 Cell Biology](/courses/7-06-cell-biology-spring-2007)
 *   [20.309 Biological Engineering II: Instrumentation and Measurement](/courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006)
 
-In a more general sense, this course is a capstone in the biological engineering degree program, synthesizing and applying the knowledge gained in many prior classes, especially the sequence [20.310J](/courses/20-310j-molecular-cellular-and-tissue-biomechanics-spring-2015/), [20.320](/courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012/), and [20.330J](/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007).
+In a more general sense, this course is a capstone in the biological engineering degree program, synthesizing and applying the knowledge gained in many prior classes, especially the sequence [20.310J](/courses/20-310j-molecular-cellular-and-tissue-biomechanics-spring-2015), [20.320](/courses/20-320-analysis-of-biomolecular-and-cellular-systems-fall-2012), and [20.330J](/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007).
 
 Course Goals
 ------------
